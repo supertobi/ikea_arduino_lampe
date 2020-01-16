@@ -1,5 +1,10 @@
 # IKEA Arduino Lampe
 
+<p align="center">
+  <img src="Lamp_light.jpg" width="350" title="Lamp">
+  <img src="Lamp_dark.jpg" width="350" alt="Lamp dark">
+</p>
+
 The pimped lamp:
 https://www.ikea.com/de/de/p/lampan-tischleuchte-weiss-20046988/
 

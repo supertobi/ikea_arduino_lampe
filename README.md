@@ -5,6 +5,8 @@
   <img src="Lamp_dark.jpg" width="350" alt="Lamp dark">
 </p>
 
+The "lamp.mp4" is an video of the lamp in action.
+
 The pimped lamp:
 https://www.ikea.com/de/de/p/lampan-tischleuchte-weiss-20046988/
 

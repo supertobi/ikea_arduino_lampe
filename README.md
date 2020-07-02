@@ -27,3 +27,5 @@ Use this command to simulate the lamp with G'MIC:
 gmic Lampshade.png -command lamp.gmic -lamp3d
 ```
 
+Here you can find a tutorial how to create the papper cut inside:
+https://dablogter.blogspot.com/2020/07/pimp-your-ikea-lampan-with-inkscape.html

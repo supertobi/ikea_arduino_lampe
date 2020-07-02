@@ -22,7 +22,7 @@ https://gmic.eu/
 The g'mic simmulation looks like this:
 ![G'MIC](gmic_lamp.jpeg)
 
-Ues this command to simulate the lamp with G'MIC:
+Use this command to simulate the lamp with G'MIC:
 ```bash
 gmic Lampshade.png -command lamp.gmic -lamp3d
 ```
